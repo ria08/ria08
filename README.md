@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # 💫 About Me:
 Hi there 👋. <br>I'm currently pursuing masters in Data Science from IIITB and LJM.<br>I aim to develop and refine my skills in analysis, data modelling, and machine learning to pursue professional career in this field. <br>I'm currently working on house pricing EDA project in MySql and Power BI.<br>I'm currently learning Decision Trees, Random Forest, and Advanced SQL.<br>
