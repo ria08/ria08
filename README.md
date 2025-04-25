@@ -1,7 +1,11 @@
 
 
 # 💫 About Me:
-Hi there 👋. <br>I'm currently pursuing masters in Data Science from IIITB and LJM.<br>I aim to develop and refine my skills in analysis, data modelling, and machine learning to pursue professional career in this field. <br>I'm currently working on house pricing EDA project in MySql and Power BI.<br>I'm currently learning Decision Trees, Random Forest, and Advanced SQL.<br>
+🔭 Current Projects: Python, Web Scraping and SQL based end to end projects.
+👯 Currently pursuing: Masters in Data Science with specialisation in deep learning
+🌱 Currently Learning: Advanced SQL, Supervised Learning and Advanced Excel.
+📫 Contact Me: singhria.0829@gmail.com
+⚡ Daily Affirmation: Discipline> Motivation
 
 
 ## 🌐 Socials:
