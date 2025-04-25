@@ -3,9 +3,9 @@
 # 💫 About Me:
 🔭<b>Current Projects</b>: Python, Web Scraping and SQL based end to end projects.
 
-👯 <b>Currently pursuing<b/>: Masters in Data Science with specialisation in deep learning
+👯 <b>Currently pursuing</b>: Masters in Data Science with specialisation in deep learning
 
-🌱 <b/>Currently Learning<b/>: Advanced SQL, Supervised Learning and Advanced Excel.
+🌱 <b/>Currently Learning</b>: Advanced SQL, Supervised Learning and Advanced Excel.
 
 📫 <b>Contact Me</b>: singhria.0829@gmail.com
 
