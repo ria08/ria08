@@ -9,8 +9,6 @@
 
 📫 <b>Contact Me</b>: singhria.0829@gmail.com
 
-⚡ <b>Daily Affirmation</b>: Discipline > Motivation
-
 
 
 ## 🌐 Socials:
