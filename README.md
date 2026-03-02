@@ -14,7 +14,7 @@
 
 I'm currently pursuing an Integrated M.S. in Data Science through a joint programme between Liverpool John Moores University (LJMU) and IIIT Bangalore with a strong focus on building a career at the intersection of analytics, cloud infrastructure, and data engineering.
 
-Beyond building pipelines, I'm also a tech writer. I write regularly on **Medium**, breaking down data concepts, tools, and project walkthroughs for the broader data community.
+Beyond building pipelines, I'm also a tech writer. I write regularly on Medium, breaking down data concepts, tools, and project walkthroughs for the broader data community.
 
 - 🔭 **Current Projects:** Olist Marketplace Analysis & Sales Automation pipeline (end-to-end)
 - 🎓 **Pursuing:** Integrated M.S. in Data Science — LJMU × IIIT Bangalore
