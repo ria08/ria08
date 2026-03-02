@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4f8a,100:00b4d8&height=220&section=header&text=RIA%20SINGH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20%Storytelling%20%7C%20Analytics%20%7C%20Tech%20Writer&descAlignY=58&descSize=18&descColor=90e0ef)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4f8a,100:00b4d8&height=220&section=header&text=RIA%20SINGH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20%Storytelling%20%7C%20AI%20%Enhanced%20%Workflows%20%7C%20Tech%20Writer&descAlignY=58&descSize=18&descColor=90e0ef)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Analytics+Engineer+%F0%9F%9A%80;SQL+%7C+Power%20%BI+%7C+Python+%7C+AWS;Tech+Writer+on+Medium+%E2%9C%8D%EF%B8%8F;Turning+Raw+Data+into+Real+Insights+%F0%9F%93%8A)](https://git.io/typing-svg)
 
@@ -13,13 +13,13 @@
 
 ## 💫 About Me
 
-I'm currently pursuing an **Integrated M.S. in Data Science** (specialisation in Deep Learning) through a joint programme between **Liverpool John Moores University (LJMU)** and **IIIT Bangalore** — with a strong focus on building a career at the intersection of data engineering, cloud infrastructure, and analytics.
+I'm currently pursuing an **Integrated M.S. in Data Science** through a joint programme between Liverpool John Moores University (LJMU) and IIIT Bangalore with a strong focus on building a career at the intersection of analytics, cloud infrastructure, and data engineering.
 
-Beyond building pipelines, I'm also a **tech writer** — I write regularly on **Medium**, breaking down data concepts, tools, and project walkthroughs for the broader data community.
+Beyond building pipelines, I'm also a tech writer. I write regularly on **Medium**, breaking down data concepts, tools, and project walkthroughs for the broader data community.
 
-- 🔭 **Current Projects:** Olist Marketplace Analysis & Sales Automation (cloud-native, end-to-end)
+- 🔭 **Current Projects:** Olist Marketplace Analysis & Sales Automation pipeline (end-to-end)
 - 🎓 **Pursuing:** Integrated M.S. in Data Science — LJMU × IIIT Bangalore
-- ✍️ **Tech Writer:** Regularly publish on [Medium](https://medium.com/)
+- ✍️ **Tech Writer:** Regularly publish on [Medium](https://medium.com/@singhria.0829))
 - 📫 **Contact:** singhria.0829@gmail.com
 
 ---
@@ -39,17 +39,17 @@ Beyond building pipelines, I'm also a **tech writer** — I write regularly on *
 <td width="50%">
 
 ### 🛒 Olist Marketplace Analysis
-End-to-end analysis of the Olist Brazilian e-commerce dataset — covering customer segmentation, seller performance, and delivery insights, orchestrated on a modern cloud data stack.
+End-to-end analysis of the Olist Brazilian e-commerce dataset covering medallian architecture, customer segmentation, A/B testing and delivery insights, orchestrated on data tech stack.
 
-**Stack:** `Python` `SQL` `AWS S3` `AWS Glue` `Athena` `Databricks` `QuickSight`
+**Stack:** `Python` `SQL` `Power BI` `Power Query` `Databricks Medallian Architecture` `Business Storytelling`
 
 </td>
 <td width="50%">
 
 ### 🤖 Sales Automation
-Automated sales reporting and data pipeline system that reduces manual effort and accelerates decision-making — integrating ingestion, transformation, and visualisation layers with cloud-native tools.
+Automated sales reporting and data pipeline system that reduces manual effort and accelerates decision-making, integrating ingestion, transformation, and visualisation layers.
 
-**Stack:** `Python` `AWS S3` `GlueBrew` `Databricks` `QuickSight` `SQL`
+**Stack:** `Excel` `Power Query` `VBA` `Power BI` `Python Script` `Task Scheduler`
 
 </td>
 </tr>
