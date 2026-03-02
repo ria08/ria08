@@ -10,7 +10,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 I'm currently pursuing an Integrated M.S. in Data Science through a joint programme between Liverpool John Moores University (LJMU) and IIIT Bangalore with a strong focus on building a career at the intersection of analytics, cloud infrastructure, and data engineering.
 
